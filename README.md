@@ -37,7 +37,7 @@ To run the Markdown Writer app on your local machine, follow these steps:
 1. Clone this repository to your local machine:
  
 ```sh
-git clone
+git clone https://github.com/MehraDevesh2022/markdown-creater.git
 ```
 
 
