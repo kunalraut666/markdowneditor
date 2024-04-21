@@ -23,7 +23,6 @@ export default function App() {
    // Get the current location
    const location = useLocation();
    const pathname = location.pathname;  
-   console.log(pathname);
 
 // side effect process handle by use effect
 React.useEffect(function() {
